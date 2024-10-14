@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Pretendard";
+    font-weight: 400;
+    font-style: normal;
+    src: url("//static.msscdn.net/platform/fonts/Pretendard-Regular.eot");
+    src: local("🙂"),url("//static.msscdn.net/platform/fonts/Pretendard-Regular.eot?#iefix") format("embedded-opentype"),url("//static.msscdn.net/platform/fonts/Pretendard-Regular.woff2") format("woff2"),url("//static.msscdn.net/platform/fonts/Pretendard-Regular.woff") format("woff"),url("//static.msscdn.net/platform/fonts/Pretendard-Regular.ttf") format("truetype"),url("//static.msscdn.net/platform/fonts/Pretendard-Regular.svg#Pretendard-Regular") format("svg")
+}
+
+@font-face {
+    font-family: "Pretendard";
+    font-weight: 500;
+    font-style: normal;
+    src: url("//static.msscdn.net/platform/fonts/Pretendard-Medium.eot");
+    src: local("🙂"),url("//static.msscdn.net/platform/fonts/Pretendard-Medium.eot?#iefix") format("embedded-opentype"),url("//static.msscdn.net/platform/fonts/Pretendard-Medium.woff2") format("woff2"),url("//static.msscdn.net/platform/fonts/Pretendard-Medium.woff") format("woff"),url("//static.msscdn.net/platform/fonts/Pretendard-Medium.ttf") format("truetype"),url("//static.msscdn.net/platform/fonts/Pretendard-Medium.svg#Pretendard-Medium") format("svg")
+}
+
+@font-face {
+    font-family: "Pretendard";
+    font-weight: 600;
+    font-style: normal;
+    src: url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.eot");
+    src: local("🙂"),url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.eot?#iefix") format("embedded-opentype"),url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.woff2") format("woff2"),url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.woff") format("woff"),url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.ttf") format("truetype"),url("//static.msscdn.net/platform/fonts/Pretendard-SemiBold.svg#Pretendard-SemiBold") format("svg")
+}
+
+@font-face {
+    font-family: "Pretendard";
+    font-weight: 700;
+    font-style: normal;
+    src: url("//static.msscdn.net/platform/fonts/Pretendard-Bold.eot");
+    src: local("🙂"),url("//static.msscdn.net/platform/fonts/Pretendard-Bold.eot?#iefix") format("embedded-opentype"),url("//static.msscdn.net/platform/fonts/Pretendard-Bold.woff2") format("woff2"),url("//static.msscdn.net/platform/fonts/Pretendard-Bold.woff") format("woff"),url("//static.msscdn.net/platform/fonts/Pretendard-Bold.ttf") format("truetype"),url("//static.msscdn.net/platform/fonts/Pretendard-Bold.svg#Pretendard-Bold") format("svg")
+}

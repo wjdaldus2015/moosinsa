@@ -1,0 +1,330 @@
+{
+    "prdList1":[
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240821/4355509/4355509_17246502049453_500.jpg?w=390",
+            "brand":"스컬프터",
+           
+            "price":{
+                "curr":84550,
+                "percent":5
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240710/4243253/4243253_17253409926024_500.jpg?w=390",
+            "brand":"어반디타입",
+           
+            "price":{
+                "curr":259000,
+                "percent":14
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230814/3464998/3464998_16964023450202_500.jpg?w=390",
+            "brand":"벤힛",
+           
+            "price":{
+                "curr":29700,
+                "percent":44
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230801/3440410/3440410_16910329253681_500.jpg?w=780",
+            "brand":"크리틱",
+            "price":{
+                "curr":259000,
+                "percent":14
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240115/3794811/3794811_17055529992296_500.jpg?w=390",
+            "brand":"아워데이즈",
+            "price":{
+                "curr":63800,
+                "percent":31
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240216/3877269/3877269_17096277243612_500.jpg?w=390",
+            "brand":"유쓰베쓰",
+            "price":{
+                "curr":131400,
+                "percent":40
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240415/4053834/4053834_17133547282102_500.jpg?w=390",
+            "brand":"아캄",
+            "price":{
+                "curr":153900,
+                "percent":10
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240821/4355509/4355509_17246502049453_500.jpg?w=390",
+            "brand":"스컬프터",
+           
+            "price":{
+                "curr":84550,
+                "percent":5
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240710/4243253/4243253_17253409926024_500.jpg?w=390",
+            "brand":"어반디타입",
+           
+            "price":{
+                "curr":259000,
+                "percent":14
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230814/3464998/3464998_16964023450202_500.jpg?w=390",
+            "brand":"벤힛",
+           
+            "price":{
+                "curr":29700,
+                "percent":44
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230801/3440410/3440410_16910329253681_500.jpg?w=780",
+            "brand":"크리틱",
+            "price":{
+                "curr":259000,
+                "percent":14
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240115/3794811/3794811_17055529992296_500.jpg?w=390",
+            "brand":"아워데이즈",
+            "price":{
+                "curr":63800,
+                "percent":31
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240216/3877269/3877269_17096277243612_500.jpg?w=390",
+            "brand":"유쓰베쓰",
+            "price":{
+                "curr":131400,
+                "percent":40
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240415/4053834/4053834_17133547282102_500.jpg?w=390",
+            "brand":"아캄",
+            "price":{
+                "curr":153900,
+                "percent":10
+            }
+        }
+      
+
+    ],
+    "prdList2":[
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230117/3028887/3028887_17147012489499_big.jpg?w=1200",
+            "brand":"그린몬스터",
+            "title":"헐리우드48시간 947ml",
+            "price":{
+                "curr":3500,
+                "percent":90
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240726/4275806/4275806_17249839963537_500.jpg?w=780",
+            "brand":"다슈",
+            "title":"다운텍 폴드 옆/뒷머리 누르기 다운펌",
+            "price":{
+                "curr":27500,
+                "percent":55
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230224/3106187/3106187_17236042479667_500.jpg?w=780",
+            "brand":"투쿨포스쿨",
+            "title":"아트클래스 프로타주 펜슬",
+            "price":{
+                "curr":10900,
+                "percent":16
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240718/4257769/4257769_17249120161907_500.jpg?w=780",
+            "brand":"아이소이",
+            "title":"장수진 수분3종",
+            "price":{
+                "curr":29000,
+                "percent":45
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20200730/1532646/1532646_16729951893523_500.jpg?w=780",
+            "brand":"우르오스",
+            "title":"스킨 워시 500ml",
+            "price":{
+                "curr":15760,
+                "percent":20
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240626/4219420/4219420_17193688513661_500.jpg?w=780",
+            "brand":"세잔느",
+            "title":"메이크 킵 베이스 라이트 더블 기획",
+            "price":{
+                "curr":19900,
+                "percent":41
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240416/4056565/4056565_17175070046389_big.jpg?w=1200",
+            "brand":"리필드",
+            "title":"사이토카인 헤어토닉 부스터 100ml",
+            "price":{
+                "curr":26300,
+                "percent":26
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230118/3030190/3030190_17254352007931_big.jpg?w=1000",
+            "brand":"그린몬스터",
+            "title":"디톡 콤부차 레몬홍차",
+            "price":{
+                "curr":16500,
+                "percent":63
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20210419/1907628/1907628_17011638357506_500.jpg?w=780",
+            "brand":"피브",
+            "title":"하이퍼 하이드로 세럼 50ml",
+            "price":{
+                "curr":15900,
+                "percent":43
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20231121/3726710/3726710_17110932265062_500.jpg?w=780",
+            "brand":"구달",
+            "title":"청귤 비타C 잡티케어 세럼",
+            "price":{
+                "curr":32900,
+                "percent":30
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230823/3492318/3492318_17256024766694_500.jpg?w=780",
+            "brand":"글린트",
+            "title":"하이라이터 (5종 택1)",
+            "price":{
+                "curr":18700,
+                "percent":15
+            }
+        }
+        
+       
+    ],
+    "prdList3":[
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240816/4337083/4337083_17243268294905_500.jpg?w=780",
+            "brand":"아캄",
+            "title":"98 Velour Pants (Blue)",
+            "price":{
+                "curr":116000,
+                "percent":null
+                
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240219/3879816/3879816_17084834589931_500.jpg?w=390",
+            "brand":"아디다스",
+            "title":"가젤 볼드 W - 핑크:그린 / IE0420",
+            "price":{
+                "curr":139000,
+                "percent":null
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240408/4037094/4037094_17133415802705_500.jpg?w=390",
+            "brand":"에이치덱스",
+            "title":"매쉬 풋볼 슬리브리스 (Black)",
+            "price":{
+                "curr":50000,
+                "percent":15
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240408/4037086/4037086_17165135103015_500.jpg?w=390",
+            "brand":"에이치덱스",
+            "title":"럭비 저지 매쉬 숏 슬리브 (Navy)",
+            "price":{
+                "curr":69000,
+                "percent":null
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240206/3851729/3851729_17103826480693_500.jpg?w=390",
+            "brand":"엑스트라오디너리",
+            "title":"PYTHON TRUCKER JACKET",
+            "price":{
+                "curr":199000,
+                "percent":null
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20230914/3562254/3562254_17243912253260_500.jpg?w=390",
+            "brand":"엑스트라오디너리",
+            "title":"LEOPARD CARDIGAN GRAY",
+            "price":{
+                "curr":149000,
+                "percent":null
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240116/3797852/3797852_17247336464052_big.jpg?w=1200",
+            "brand":"니티드",
+            "title":"쉐기독 울 100% 라운드 베스트 GREY",
+            "price":{
+                "curr":69800,
+                "percent":17
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240116/3797856/3797856_17247336009492_500.jpg?w=390",
+            "brand":"니티드",
+            "title":"쉐기독 울 100% 라운드 베스트 GREY",
+            "price":{
+                "curr":69800,
+                "percent":17
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240201/3838903/3838903_17067618097427_500.jpg?w=390",
+            "brand":"비긴202",
+            "title":"Dobby Jacket [Washed Beige]",
+            "price":{
+                "curr":160200,
+                "percent":10
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240131/3837384/3837384_17066953149911_500.jpg?w=390",
+            "brand":"비긴202",
+            "title":"Dobby Pants [Washed Beige]",
+            "price":{
+                "curr":106200,
+                "percent":10
+            }
+        },
+        {
+            "thumb":"https://image.msscdn.net/thumbnails/images/goods_img/20240131/3837367/3837367_17066945929716_big.jpg?w=1200",
+            "brand":"비긴202",
+            "title":"Dobby Pants [Washed Black]",
+            "price":{
+                "curr":118000,
+                "percent":null
+            }
+        }
+
+    ]
+}
